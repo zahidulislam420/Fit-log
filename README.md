@@ -77,3 +77,30 @@ Rating
 Instructions
 Add to Today's Plan
 Save for Later
+
+📋 My Plan
+
+The My Plan page provides:
+
+Exercise count
+Total workout minutes
+Total calories
+Today's Plan tab
+Saved tab
+View Details
+Mark as Done
+Remove workout
+Empty state
+🚫 404 Page
+
+A custom 404 page is displayed for invalid or unknown routes.
+
+📱 Responsive Design
+
+FitLog is designed to work smoothly across different screen sizes:
+
+📱 Mobile
+📲 Tablet
+💻 Desktop
+
+The workout grid, navigation, hero section, cards, and plan layout automatically adapt to the available screen size.
