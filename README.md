@@ -2,14 +2,6 @@
 
 A modern, responsive workout library and planning application built with **Next.js**. FitLog allows users to explore workouts, view detailed exercise information, build a daily workout plan, save exercises for later, and track completed workouts.
 
-## 🌐 Live Demo
-
-**Live Website:** Add your deployed website URL here
-
-**Repository:** Add your GitHub repository URL here
-
----
-
 ## 📖 About The Project
 
 **FitLog** is a dark-themed workout companion designed for users who want to discover exercises and organize their daily workout routine.
