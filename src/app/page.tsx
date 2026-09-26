@@ -112,7 +112,7 @@ export default function HomePage() {
           </div>
 
           {loading ? (
-            <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+            <div className="grid gap-6 md:grid-cols-3">
               {Array.from({ length: 8 }).map((_, index) => (
                 <div key={index} className="overflow-hidden rounded-[1.75rem] border border-white/10 bg-[#121b20]">
                   <div className="h-56 animate-pulse bg-white/5" />
@@ -130,7 +130,7 @@ export default function HomePage() {
               ))}
             </div>
           ) : (
-            <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+            <div className="grid gap-6 md:grid-cols-3">
               {visibleWorkouts.map((workout) => (
                 <WorkoutCard key={workout.id} workout={workout} />
               ))}
