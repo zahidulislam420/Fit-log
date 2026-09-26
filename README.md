@@ -29,3 +29,14 @@ Sort workouts by duration, calories, or rating.
 Mark planned workouts as completed and remove exercises from the plan.
 💾 Persistent Data
 Plan and saved workout data are stored locally so they can remain available after page reloads.
+
+🛠️ Technologies Used
+Next.js
+React
+JavaScript
+Tailwind CSS
+Next.js App Router
+REST API
+LocalStorage
+React Toastify
+Git & GitHub
