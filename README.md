@@ -40,3 +40,40 @@ REST API
 LocalStorage
 React Toastify
 Git & GitHub
+
+🔗 API
+
+FitLog uses the following API to fetch workout information.
+
+All Workouts
+https://api.abcz.workers.dev/api/fitlog
+Single Workout
+https://api.abcz.workers.dev/api/fitlog/:id
+📂 Main Pages
+🏠 Home
+
+The home page contains:
+
+Navbar
+Hero section
+Workout library
+Workout cards
+Sorting functionality
+Loading state
+Responsive layout
+📄 Workout Details
+
+Each workout has a dedicated details page containing:
+
+Workout image
+Title and description
+Category tags
+Equipment
+Difficulty
+Sets and reps
+Duration
+Calories
+Rating
+Instructions
+Add to Today's Plan
+Save for Later
